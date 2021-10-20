@@ -1,0 +1,71 @@
+<resources>
+    <!--App Name-->
+    <string name="app_name">Pro VPN</string>
+    <!--END App Name-->
+
+    <string name="vpn_process_name" translatable="false">:my.custom.vpn.process.name</string>
+    <string name="vpn_provider_authorities" translatable="false">com.anchorfree.hydrasdk.app.demo</string>
+    <!--    <string name="version">Version 1.0</string>-->
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <!-- END of Application Layout Text Title   -->
+
+    <!--Application others Titles-->
+    <string name="tell_to_friend_text"> I have Found Very fast VPN Download Now</string>
+
+    <!-- Application State Text    -->
+    <string name="connected">Connected</string>
+    <string name="disconnected">Not Connect</string>
+    <!--END of Application State Text   -->
+
+    <!--Application     -->
+    <string name="carrier_id_title">Carrier ID: </string>
+    <string name="connecting">Connecting</string>
+    <string name="paused">Paused</string>
+
+    <!--    Application Navigation Drawer Text Titles -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Premium VPN</string>
+    <string name="action_settings">Settings</string>
+    <!-- END of Application Navigation Drawer Text Titles -->
+
+    <!--Enable and Disable Ads in App-->
+    <bool name="ads_switch">true</bool>
+    <!--END Enable and Disable Ads in App-->
+
+    <!--Google Ads ID'S-->
+<!--    <string name="admob_appid">ca-app-pub-2769691289430063~7162700451</string>-->
+<!--    <string name="admob_intersitail">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    &lt;!&ndash;END Google Ads&ndash;&gt;-->
+<!--    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+
+<!--    for play store-->
+    <string name="admob_appid">ca-app-pub-2769691289430063~7162700451</string>
+    <string name="admob_intersitail">ca-app-pub-2769691289430063/6590681356</string>
+    <!--END Google Ads-->
+    <string name="admob_banner">ca-app-pub-2769691289430063/4881002109</string>
+
+
+
+    <!--Facebook Ad ID / Facebook ads for future update-->
+    <string name="facebook_placement_id">294444785518496</string>
+    <!--END Facebook Ads-->
+    <!--Change Privacy Policy URL-->
+    <string name="privacy_policy_link">http://gdalamin-com.stackstaging.com/appprivacypolicy/</string>
+
+
+    <bool name="admob_list_ads">true</bool>
+
+    <string name="kBps">kB/s</string>
+    <string name="MBps">MB/s</string>
+    <string name="kbps">kb/s</string>
+    <string name="Mbps">Mb/s</string>
+    <string name="plus99">99+</string>
+    <string name="dash">-</string>
+    <!-- Facebook ads for future update-->
+    <bool name="facebook_list_ads">false</bool>
+
+    <!--vip subscription period prices-->
+
+</resources>
